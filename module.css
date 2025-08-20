@@ -53,7 +53,7 @@ h1 {
 		width:8.33%;
 	}
 	.lg-col2{
-		width:16.66;
+		width:16.66%;
 	}
 	.lg-col3{
 		width:25%;
@@ -80,10 +80,10 @@ h1 {
 		width:83.33%;
 	}
 	.lg-col11{
-		width:91.66;
+		width:91.66%;
 	}
 	.lg-col12{
-		width:100;
+		width:100%;
 	}
 }
 /* Medium Device Reposive */
@@ -96,7 +96,7 @@ h1 {
 		width:8.33%;
 	}
 	.md-col2{
-		width:16.66;
+		width:16.66%;
 	}
 	.md-col3{
 		width:25%;
@@ -123,9 +123,10 @@ h1 {
 		width:83.33%;
 	}
 	.md-col11{
-		width:91.66;
+		width:91.66%;
 	}
 	.md-col12{
-		width:100;
+		width:100%;
 	}
 }
+
